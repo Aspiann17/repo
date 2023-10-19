@@ -6,3 +6,6 @@ flatpak install flathub com.valvesoftware.Steam \
 flatpak install flathub org.gnome.baobab \
 flatpak install flathub com.getpostman.Postman \
 flatpak install flathub com.github.micahflee.torbrowser-launcher \
+flatpak install flathub org.inkscape.Inkscape \
+flatpak install flathub org.gimp.GIMP \
+flatpak install flathub com.google.AndroidStudio \
